@@ -1,0 +1,3 @@
+carregar dados/img2.pgm
+binarizar 0 100
+gravar testes/result-binarizar1.pgm 0

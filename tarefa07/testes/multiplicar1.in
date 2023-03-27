@@ -1,0 +1,5 @@
+carregar dados/paint.pgm
+carregar dados/colorblock2.pgm
+multiplicar 0 1
+normalizar 0
+gravar testes/result-multiplicar1.pgm 0

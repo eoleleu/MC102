@@ -1,0 +1,3 @@
+carregar dados/img10.pgm
+filtrar 0 Laplaciano
+gravar testes/result-filtrar1.pgm 0

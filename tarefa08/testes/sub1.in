@@ -1,0 +1,9 @@
+entrar laura
+criar frutas.txt
+digitar frutas.txt banana
+digitar frutas.txt abacaxi pera
+digitar frutas.txt jabuticaba banana
+substituir frutas.txt abacaxi goiaba
+entrar pedro
+mostrar frutas.txt
+terminar

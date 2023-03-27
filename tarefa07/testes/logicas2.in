@@ -1,0 +1,6 @@
+carregar dados/img7.pgm
+binarizar 0 100
+carregar dados/img5.pgm
+binarizar 1 200
+AND 0 1
+gravar testes/result-logicas2.pgm 0

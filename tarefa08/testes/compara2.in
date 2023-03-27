@@ -1,0 +1,5 @@
+entrar jose
+carregar dados/animais.txt anim1
+carregar dados/animais2.txt anim2
+comparar anim1 anim2
+terminar

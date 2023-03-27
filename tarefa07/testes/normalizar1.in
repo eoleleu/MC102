@@ -1,0 +1,3 @@
+carregar dados/img9.pgm
+normalizar 0
+gravar testes/result-normalizar1.pgm 0

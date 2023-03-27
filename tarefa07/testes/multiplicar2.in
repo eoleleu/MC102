@@ -1,0 +1,5 @@
+carregar dados/cat.pgm
+carregar dados/colorblock.pgm
+multiplicar 1 0
+normalizar 1
+gravar testes/result-multiplicar2.pgm 1

@@ -1,0 +1,4 @@
+carregar dados/img7.pgm
+carregar dados/img8.pgm
+AND 1 0
+gravar testes/result-and1.pgm 1

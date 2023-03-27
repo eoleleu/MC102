@@ -1,0 +1,6 @@
+entrar ofelia
+carregar dados/hamlet.txt ham1
+carregar dados/hamlet.txt ham2
+substituir ham2 END BEGINNING
+comparar ham1 ham2
+terminar

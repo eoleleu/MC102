@@ -1,0 +1,5 @@
+carregar dados/landscape.pgm
+filtrar 0 Laplaciano
+filtrar 0 Laplaciano
+normalizar 0
+gravar testes/result-filtrar4.pgm 0

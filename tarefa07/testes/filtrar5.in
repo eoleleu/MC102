@@ -1,0 +1,5 @@
+carregar dados/street.pgm
+filtrar 0 Laplaciano
+normalizar 0
+binarizar 0 141
+gravar testes/result-filtrar5.pgm 0

@@ -1,0 +1,14 @@
+carregar dados/cat.pgm
+carregar dados/mascara.pgm
+multiplicar 0 1
+normalizar 0
+gravar testes/result-script2_1.pgm 0
+carregar dados/street.pgm
+multiplicar 2 1
+normalizar 2
+gravar testes/result-script2_2.pgm 2
+carregar dados/colorblock.pgm
+normalizar 2
+multiplicar 3 2
+normalizar 3
+gravar testes/result-script2_3.pgm 3

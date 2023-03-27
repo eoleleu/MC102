@@ -1,0 +1,4 @@
+carregar dados/apple.pgm
+carregar dados/arara.pgm
+somar 1 0
+gravar testes/result-somar1.pgm 1

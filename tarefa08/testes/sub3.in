@@ -1,0 +1,11 @@
+entrar jose
+carregar dados/domcasmurro.txt dom1
+carregar dados/domcasmurro.txt dom2
+carregar dados/domcasmurro.txt dom3
+substituir dom2 parallelamente diagonalmente
+substituir dom3 CASMURRO RAMON
+comparar dom1 dom2
+comparar dom1 dom3
+substituir dom3 RAMON CASMURRO
+comparar dom2 dom3
+terminar

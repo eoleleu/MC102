@@ -1,0 +1,9 @@
+carregar dados/landscape2.pgm
+carregar dados/mosaico.pgm
+multiplicar 1 0
+filtrar 0 Laplaciano
+normalizar 1
+filtrar 0 Laplaciano
+normalizar 0
+gravar testes/result-script3_1.pgm 1
+gravar testes/result-script3_2.pgm 0

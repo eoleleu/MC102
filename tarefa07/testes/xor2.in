@@ -1,0 +1,4 @@
+carregar dados/img7.pgm
+carregar dados/img8.pgm
+XOR 0 1
+gravar testes/result-xor2.pgm 0

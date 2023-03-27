@@ -1,0 +1,5 @@
+carregar dados/morpho.pgm
+filtrar 0 Gaussiano
+normalizar 0
+binarizar 0 78
+gravar testes/result-filtrar7.pgm 0

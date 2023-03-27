@@ -1,0 +1,4 @@
+carregar dados/apple.pgm
+filtrar 0 Laplaciano
+normalizar 0
+gravar testes/result-filtrar3.pgm 0
